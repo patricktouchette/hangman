@@ -2,5 +2,4 @@
 Play the classic hangman game in the terminal!
 
 
-![alt text](https://github.com/patricktouchette/csharp-tutorials/blob/master/My%20Projects/Hangman/Hangman.png?raw=true)
-
+![alt text](https://raw.githubusercontent.com/patricktouchette/hangman/master/Hangman.png)

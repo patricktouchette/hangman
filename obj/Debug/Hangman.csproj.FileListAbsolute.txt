@@ -1,0 +1,14 @@
+c:\users\pat\Documents\GitHub\csharp-tutorials\Hangman\bin\Debug\Hangman.exe.config
+c:\users\pat\Documents\GitHub\csharp-tutorials\Hangman\bin\Debug\Hangman.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\Hangman\bin\Debug\Hangman.pdb
+c:\users\pat\Documents\GitHub\csharp-tutorials\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+c:\users\pat\Documents\GitHub\csharp-tutorials\Hangman\obj\Debug\Hangman.exe
+c:\users\pat\Documents\GitHub\csharp-tutorials\Hangman\obj\Debug\Hangman.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Small Games\Hangman\bin\Debug\Hangman.exe.config
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Small Games\Hangman\bin\Debug\Hangman.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Small Games\Hangman\bin\Debug\Hangman.pdb
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Small Games\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Small Games\Hangman\obj\Debug\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Small Games\Hangman\obj\Debug\Hangman.exe
+C:\Users\Pat\Documents\GitHub\csharp-tutorials\Small Games\Hangman\obj\Debug\Hangman.pdb
